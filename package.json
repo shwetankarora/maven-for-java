@@ -12,6 +12,11 @@
   "activationEvents": [
     "onCommand:maven-for-java.helloWorld"
   ],
+"homepage": "https://github.com/shwetankarora/maven-for-java",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shwetankarora/maven-for-java.git"
+  },
   "main": "./extension.js",
   "contributes": {
     "commands": [{

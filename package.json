@@ -3,6 +3,7 @@
   "displayName": "Maven for Java",
   "description": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.",
   "version": "0.0.1",
+	"publisher": "corecipher",
   "engines": {
     "vscode": "^1.74.0"
   },
